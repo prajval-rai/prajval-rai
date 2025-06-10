@@ -28,7 +28,7 @@
   <a href="https://linkedin.com/in/prajval-rai-4427751b1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajval rai" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/it_is_prajval_2001" target="blank">
+  <a href="https://instagram.com/its_prajval_2001" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_is_prajval_2001" height="30" width="40" />
   </a>
 </p>
